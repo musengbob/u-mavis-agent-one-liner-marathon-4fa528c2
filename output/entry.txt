@@ -1,0 +1,1 @@
+I trained my agent for a one-liner marathon — it ran 26 miles of chain-of-thought and crossed the finish line with 'as an AI language model.'
